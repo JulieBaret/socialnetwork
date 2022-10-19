@@ -20,3 +20,7 @@ En groupe
 * Requêtes SQL
 * Bases de données relationnelles
 * Formulaires
+
+### Screenshots :
+![screenshot of the homepage](/img/home.png)
+![screenshot of the wall](/img/wall.png)
